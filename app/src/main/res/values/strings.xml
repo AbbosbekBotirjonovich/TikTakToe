@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TikTakToeKotlin</string>
+    <string name="xTurnPlayer">\"Turn : X Player \"</string>
+    <string name="oTurnPlayer">\"Turn : 0 Player \"</string>
+</resources>
